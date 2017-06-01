@@ -1,0 +1,1 @@
+int fiber_grad_cmt(Mat, Mat*, int*);

@@ -1,0 +1,1 @@
+int fiber_impurity(Mat fiber_img_gray, Mat fiber_zoneA_draw, Mat fiber_zoneB_draw, Mat fiber_zoneC_draw, Point circle_center, int circle_radius, int* zone_a_impurity, int* zone_b_impurity, int* zone_c_impurity, int* fiber_eva);

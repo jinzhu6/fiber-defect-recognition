@@ -1,0 +1,1 @@
+int fiber_scratch_finder(Mat& fiber_img_gray, Point center, int radius, int* scratch__amount);

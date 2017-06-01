@@ -1,0 +1,1 @@
+int fastThin(Mat src, Mat* dst, int iterations);
